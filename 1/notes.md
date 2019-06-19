@@ -7,7 +7,7 @@
 
 ## About you 
 
-![Confession of a student](/images/confession.png)
+![Confession of a student](/1/images/confession.png)
 * 2 truths 1 lie
 * Name game
 * Any other one?
@@ -44,7 +44,7 @@
 
 * Split into group ~5 people and brainstorm for a couple minutes. __Reintroduce yourselves__.
 
-![A Peanut Butter Sandwich](/images/pbsandwich.jpg)
+![A Peanut Butter Sandwich](/1/images/pbsandwich.jpg)
 
 </br>
 </br>
@@ -109,7 +109,7 @@ What are the differences between graphical user interfaces and the command line?
 
 </br>
 
-![Linux](/images/linux.jpg)
+![Linux](/1/images/linux.jpg)
 
 </br>
 </br>

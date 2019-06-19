@@ -22,7 +22,7 @@
 <details>
 <summary>Meme</summary>
 
-![SAVE](/images/save.png)
+![SAVE](/2/images/save.png)
 
 </details>
 
