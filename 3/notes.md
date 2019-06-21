@@ -140,7 +140,7 @@ For example:
 <details>
 <summary> Answer </summary>
 
-![Ah shit here we go again](/2/images/awshit.jpg)
+![Ah shit here we go again](/3/images/awshit.jpg)
 </details>
 
 ## Tutorial question 5 count42.c
